@@ -18,3 +18,6 @@ Very interesting is for example moving function argumnents to stack (not pushing
 
 Only for educational purpose and if you feel really lost, I also included GO src code: [[crackme_go2.go]](https://github.com/Dump-GUY/Go_CrackMe/blob/main/SRC/crackme_go2.go)<br/>
 Good Luck and Happy Reversing :)<br/>
+
+## Recommended tools:
+[[IDA Pro/Free]](https://hex-rays.com/ida-free/)<br/>
