@@ -14,7 +14,7 @@ crackme_go2_linux64 - Linux OS - 64bit: [[crackme_go2_linux64]](https://github.c
 You can nicely learn new things, compare 32bit vs 64bit, learn how strings are referenced in compiled GO programs, how arguments are pushed/moved to function etc...<br/>
 Very interesting is for example moving function argumnents to stack (not pushing).<br/>
 
-Only for educational purpose and if you feel really lost, I also included GO src code:[[crackme_go2.go]](https://github.com/Dump-GUY/Go_CrackMe/blob/main/SRC/crackme_go2.go)<br/>
+Only for educational purpose and if you feel really lost, I also included GO src code: [[crackme_go2.go]](https://github.com/Dump-GUY/Go_CrackMe/blob/main/SRC/crackme_go2.go)<br/>
 
 
 Good Luck and Happy Reversing :)<br/>
